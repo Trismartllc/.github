@@ -1,7 +1,6 @@
 ![trismart](./assets/TRISMART_FULL_HD.png)
 
 <br />
-<br />
 
 ### En Trismart te acompañamos para que logres un nivel más alto en calidad de sistemas
 
@@ -9,8 +8,6 @@
 ------
 
 ##### Somos Trismart, con nuestra experiencia y compromiso, llevaremos tu proyecto al siguiente nivel.
-
-<br />
 
 ![trismart](./assets/TEAM.png)
 
