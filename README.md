@@ -9,7 +9,7 @@
 
 ##### Somos Trismart, con nuestra experiencia y compromiso, llevaremos tu proyecto al siguiente nivel.
 
-![trismart](./assets/TEAM.png)
+![trismart](https://raw.githubusercontent.com/Trismartllc/trismart/main/assets/TEAM.png?token=GHSAT0AAAAAACNLDXERFDYVLUAWSQCC7KRMZNST4EA)
 
 ```
 Nuestro equipo se encarga de todo el proceso de 
