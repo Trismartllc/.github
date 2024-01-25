@@ -14,16 +14,16 @@
 
 ![trismart](./assets/TEAM.png)
 
-###### Nuestro equipo se encarga de todo el proceso de desarrollo, desde la concepción de la idea hasta el mantenimiento posterior al lanzamiento.
+##### Nuestro equipo se encarga de todo el proceso de desarrollo, desde la concepción de la idea hasta el mantenimiento posterior al lanzamiento.
 
-###### Ofrecemos soluciones tanto para plataformas web como móviles, y nos especializamos en diseño, programación, implementación, pruebas y despliegue.
-
-<br />
+##### Ofrecemos soluciones tanto para plataformas web como móviles, y nos especializamos en diseño, programación, implementación, pruebas y despliegue.
 
 #### Tu transformación digital por medio de nuestros servicios
 ------
 
 ##### Acompañamos a nuestros clientes a tomar un camino seguro de la mano de la innovación tecnológica, aportando valor en cada proyecto, en cada empresa.
+
+<br />
 
 ```
 A partir de la evolución tecnológica en los negocios, 
@@ -45,8 +45,3 @@ sitio web o utiliza esa app y no otra, hoy es
 indispensable para lograr la mejora continua generando 
 una experiencia de usuario atractiva, memorable y ágil.
 ```
-
-<br />
-<br />
-
-![trismart](./assets/TRISMART_FULL_HD.png)
