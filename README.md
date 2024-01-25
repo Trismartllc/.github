@@ -1,1 +1,1 @@
-![trismart](./assets/TRISMART_FULL_HD_TRANSPARENTE.png)
+![trismart](./assets/TRISMART_FULL_HD.png)
