@@ -8,15 +8,23 @@
 #### ¿Quiénes somos?
 ------
 
-###### Somos Trismart, con nuestra experiencia y compromiso, llevaremos tu proyecto al siguiente nivel.
+##### Somos Trismart, con nuestra experiencia y compromiso, llevaremos tu proyecto al siguiente nivel.
 
 <br />
 
 ![trismart](./assets/TEAM.png)
 
-##### Nuestro equipo se encarga de todo el proceso de desarrollo, desde la concepción de la idea hasta el mantenimiento posterior al lanzamiento.
+```
+Nuestro equipo se encarga de todo el proceso de 
+desarrollo, desde la concepción de la idea hasta el 
+mantenimiento posterior al lanzamiento.
+```
 
-##### Ofrecemos soluciones tanto para plataformas web como móviles, y nos especializamos en diseño, programación, implementación, pruebas y despliegue.
+```
+Ofrecemos soluciones tanto para plataformas web 
+como móviles, y nos especializamos en diseño, 
+programación, implementación, pruebas y despliegue.
+```
 
 #### Tu transformación digital por medio de nuestros servicios
 ------
