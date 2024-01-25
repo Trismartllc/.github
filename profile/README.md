@@ -1,4 +1,4 @@
-![trismart](../assets/TRISMART_FULL_HD.png)
+![trismart](https://raw.githubusercontent.com/Trismartllc/.github/main/assets/TRISMART_FULL_HD.png)
 
 <br />
 
@@ -9,7 +9,7 @@
 
 ##### Somos Trismart, con nuestra experiencia y compromiso, llevaremos tu proyecto al siguiente nivel.
 
-![trismart](../assets/TEAM.png)
+![trismart](https://raw.githubusercontent.com/Trismartllc/.github/main/assets/TEAM.png)
 
 ```
 Nuestro equipo se encarga de todo el proceso de 
