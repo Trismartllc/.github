@@ -1,4 +1,4 @@
-![trismart](./assets/TRISMART_FULL_HD.png)
+![trismart](https://raw.githubusercontent.com/Trismartllc/trismart/7936c8ae058c8760b778a55963ab39c1a70c6b69/assets/TRISMART_FULL_HD.png?token=GHSAT0AAAAAACNLDXER6GUHIBLCO7S6QML2ZNSTYUA)
 
 <br />
 
